@@ -1,3 +1,6 @@
+App URL: URL: http://a7e32b3d52c39423e96a86ce691a6562-742956488.us-east-1.elb.amazonaws.com:8080
+Git Repo: https://github.com/thanhdzu/udagram-project5-capstone
+
 ## Udacity Cloud Developer Capstone Project 
 
 I reused the TODO app from the project 4 and deployed the frontend to AWS using EKS together with circleCI, github and dockerhub. The serverless functions for the backend also remained the same but I completely automated the CI/CD pipeline so that the serverless functions are automatically deployed to AWS when latest source is pushed to github using circleCI.
@@ -5,8 +8,6 @@ I reused the TODO app from the project 4 and deployed the frontend to AWS using 
 ### TODO application
 
 This is a TODO list application that is used to demonstrate a number of AWS services that were used to build the architecture for this web application.
-
-URL: 
 
 ![TODO app](screenshots/todo-app.png)
 
