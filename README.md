@@ -1,5 +1,10 @@
-App URL: URL: http://a7e32b3d52c39423e96a86ce691a6562-742956488.us-east-1.elb.amazonaws.com:8080
-Git Repo: https://github.com/thanhdzu/udagram-project5-capstone
+# App URL:
+
+  http://a7e32b3d52c39423e96a86ce691a6562-742956488.us-east-1.elb.amazonaws.com:8080
+
+# Git Repo: 
+
+  https://github.com/thanhdzu/udagram-project5-capstone
 
 ## Udacity Cloud Developer Capstone Project 
 
